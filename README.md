@@ -65,7 +65,7 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 
 FbIntent.open(facebook_page_id)
 
-* **facebook_page_id:** *(string)* facebook page id, use http://findmyfbid.com/ to find the id of a page. If user does not install facebook app it will open facebook page in the browser.
+* **facebook_page_id:** *(string)* facebook page id, use [http://findmyfbid.com/](http://findmyfbid.com/) to find the id of a page. If user does not install facebook app it will open facebook page in the browser.
 
 Example:
 
