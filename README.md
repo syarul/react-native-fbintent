@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # react-native-mapintent
 
 A React Native intent for Android Facebook App.
@@ -78,7 +77,3 @@ FbIntent.open('461828740557560');
 ## License
 
 MIT
-=======
-# react-native-fbintent
-A React Native intent for Android Facebook App
->>>>>>> 52ee314e2afe430f07554e66852440fa58c371a3
